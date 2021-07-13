@@ -17,6 +17,11 @@
 
 - [Blockchain 101 - A Visual Demo](https://youtu.be/_160oMzblY8)
 
+# Cryptography
+
+- [Diffie Hellman -the Mathematics bit- Computerphile](https://youtu.be/Yjrfm_oRO0w)
+- [How TOR Works- Computerphile](https://youtu.be/QRYzre4bf7I)
+
 # System Design
 
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
