@@ -22,6 +22,10 @@
 - [Diffie Hellman -the Mathematics bit- Computerphile](https://youtu.be/Yjrfm_oRO0w)
 - [How TOR Works- Computerphile](https://youtu.be/QRYzre4bf7I)
 
+# Data Storage
+
+- [N+1 queries problem](https://stackoverflow.com/a/97253/1399309)
+
 # Linux
 
 - [Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw)
