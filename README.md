@@ -32,6 +32,11 @@
 
 - nx
 
+Instead of fetch, use
+
+- got
+- ky
+
 Instead of JSON or gRPC, use
 
 - Twirp
