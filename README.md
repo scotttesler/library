@@ -26,6 +26,16 @@
 
 - [N+1 queries problem](https://stackoverflow.com/a/97253/1399309)
 
+# Instead of...
+
+### Instead of bash/zsh, use
+
+- nx
+
+Instead of JSON or gRPC, use
+
+- Twirp
+
 # Linux
 
 - [Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw)
