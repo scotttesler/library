@@ -8,7 +8,7 @@
 - https://eyeondesign.aiga.org
 - https://probablydance.com
 - https://headrush.typepad.com
-- https://www.ribbonfarm.com
+- https://ribbonfarm.com
 
 ## Posts
 
