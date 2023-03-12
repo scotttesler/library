@@ -1,0 +1,1 @@
+- https://www.chromium.org/user-experience/ui-strings/
