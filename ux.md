@@ -4,3 +4,9 @@
 
 - https://the12principles.tumblr.com - Disney's 12 basic principles of animation.
 - https://garden.bradwoods.io/notes/design/juice - Juice is the non-essential visual, audio & haptic effects that enhance the player's experience. For example, the delightful chimes sound that plays when Mario collects a mushroom.
+
+# Art / Graphic Design / Aesthetic
+
+- https://designtaxi.com/news/422018/Monotype-Shares-Type-Trends-For-2023-Eye-Popping-Yet-Super-Sobe
+- "Roboto... But make it flex" by Material Design - https://youtu.be/f3IQSmKFokU
+  ![image](https://user-images.githubusercontent.com/586779/228082836-b2be2ad7-d934-46ff-bd3e-fcb118e5e6af.png)
