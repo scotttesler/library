@@ -16,6 +16,7 @@
 - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html)
 - [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
 - [Choose Boring Technology](http://boringtechnology.club)
+- [Big things that were developed in a short amount of time - by Patrick Collison (co-founder of Stripe)](https://patrickcollison.com/fast)
 
 # Uncategorized
 
