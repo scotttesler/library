@@ -12,6 +12,7 @@
   - https://teenage.engineering
 - Mechanical keyboards
   - https://mvkb.com
+  - https://protozoa.studio
 - Fonts
   - https://designtaxi.com/news/422018/Monotype-Shares-Type-Trends-For-2023-Eye-Popping-Yet-Super-Sobe
   - "Roboto... But make it flex" by Material Design - https://youtu.be/f3IQSmKFokU
