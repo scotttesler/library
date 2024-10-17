@@ -23,6 +23,7 @@
   - https://c82.net
   - https://forsstudio.com
   - https://sherwood.news
+  - https://kineuphorics.com
 
 # Products
 
