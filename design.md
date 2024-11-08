@@ -19,6 +19,7 @@
     - <img src="https://user-images.githubusercontent.com/586779/228082836-b2be2ad7-d934-46ff-bd3e-fcb118e5e6af.png" width="400">
 - Web design
   - Most items in the `Art / Graphic Design / Aesthetic` section apply.
+  - https://principles.design
   - https://calienna.com
   - https://c82.net
   - https://forsstudio.com
