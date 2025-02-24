@@ -25,6 +25,7 @@
   - https://forsstudio.com
   - https://sherwood.news
   - https://kineuphorics.com
+  - https://oliviaking.com/story/feature
 
 # Products
 
