@@ -26,6 +26,7 @@
   - https://sherwood.news
   - https://kineuphorics.com
   - https://oliviaking.com/story/feature
+  - https://raycast.com
 
 # Products
 
