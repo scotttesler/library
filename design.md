@@ -31,3 +31,5 @@
 # Products
 
 - https://terrakaffe.com/products/tk-02
+- https://feals.com
+- https://drinkbrez.com
