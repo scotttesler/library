@@ -16,3 +16,10 @@
   1. Transport cost is zero
   1. Network is homogeneous
 - [The Network is Reliable: An informal survey of real-world communications failures](https://queue.acm.org/detail.cfm?id=2655736) ([archive](https://archive.ph/1c2mo))
+- [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
+
+### Monoliths
+
+- [The Magestic Monolith](https://signalvnoise.com/svn3/the-majestic-monolith)
+- [How to recover from microservices](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc)
+- [Embracing Monoliths](https://monolithic.dev)
