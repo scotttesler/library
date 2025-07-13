@@ -1,5 +1,5 @@
 - [Frontend development at GitHub - build websites like it's 2005](https://archive.ph/NoBLj)
-- https://www.chromium.org/user-experience/ui-strings/
+- https://chromium.org/user-experience/ui-strings
 
 # Animation
 
@@ -33,3 +33,4 @@
 - https://terrakaffe.com/products/tk-02
 - https://feals.com
 - https://drinkbrez.com
+- https://eatfishwife.com
