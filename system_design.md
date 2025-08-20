@@ -20,6 +20,6 @@
 
 ### Monoliths
 
+- [Embracing Monoliths - monolithic.dev](https://monolithic.dev)
 - [The Magestic Monolith](https://signalvnoise.com/svn3/the-majestic-monolith)
 - [How to recover from microservices](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc)
-- [Embracing Monoliths](https://monolithic.dev)
