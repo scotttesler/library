@@ -27,6 +27,7 @@
   - https://kineuphorics.com
   - https://oliviaking.com/story/feature
   - https://raycast.com
+  - https://jules.google
 
 # Products
 
