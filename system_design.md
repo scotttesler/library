@@ -29,3 +29,4 @@ application helped achieve higher scale, resilience, and reduce costs.
   - https://www.wudsn.com/productions/www/site/news/2023/2023-05-08-microservices-01.pdf
 - [Twilio: Goodbye Microservices: From 100s of problem children to 1 superstar](https://twilio.com/blog/developers/best-practices/goodbye-microservices)
 - https://martinfowler.com/bliki/MicroservicePremium.html
+- https://justfuckingusemicroservices.com
